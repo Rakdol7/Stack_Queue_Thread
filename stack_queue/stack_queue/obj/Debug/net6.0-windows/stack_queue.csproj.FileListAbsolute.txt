@@ -1,0 +1,16 @@
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\bin\Debug\net6.0-windows\stack_queue.exe
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\bin\Debug\net6.0-windows\stack_queue.deps.json
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\bin\Debug\net6.0-windows\stack_queue.runtimeconfig.json
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\bin\Debug\net6.0-windows\stack_queue.dll
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\bin\Debug\net6.0-windows\stack_queue.pdb
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.Form1.resources
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.csproj.GenerateResource.cache
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.AssemblyInfoInputs.cache
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.AssemblyInfo.cs
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.csproj.CoreCompileInputs.cache
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.dll
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\refint\stack_queue.dll
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.pdb
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\stack_queue.genruntimeconfig.cache
+C:\Users\masnada.21197\Desktop\stack_queue\stack_queue\obj\Debug\net6.0-windows\ref\stack_queue.dll
